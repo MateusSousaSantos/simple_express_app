@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "nome": "mateus",
+      "email": "email@teste.com",
+      "senha": "123"
+    },
+    {
+      "id": "d9e2ab",
+      "nome": "mateus",
+      "email": "mateus@email.com",
+      "senha": "$2a$04$iDfQ69AQz9T8EhXi1W1ixO4..8GDUNQ7OEnzNaTNf63iy1U/gZfjG"
+    },
+    {
+      "id": "b44683",
+      "nome": "mateus de sousa",
+      "email": "email_teste@teste.com",
+      "senha": "$2a$04$IH1lgACtr74R4P28g0iWCuk0.2C4Z34dEFB6iSkLkmVvcyFqQqvUy"
+    }
+  ]
+}

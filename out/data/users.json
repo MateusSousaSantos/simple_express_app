@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": "123",
+            "nome": "mateus",
+            "email": "email@teste.com",
+            "senha": "123"
+        },
+        {
+            "id": "d9e2ab",
+            "nome": "mateus",
+            "email": "mateus@email.com",
+            "senha": "$2a$04$iDfQ69AQz9T8EhXi1W1ixO4..8GDUNQ7OEnzNaTNf63iy1U/gZfjG"
+        }
+    ]
+}

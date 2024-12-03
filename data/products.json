@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "",
+      "name": "",
+      "price": "",
+      "image": "",
+      "description": "",
+      "category": ""
+    },
+    {
+      "id": "dd964924888",
+      "name": "dado d20",
+      "price": "15",
+      "description": "dado para rpg de mesa d20",
+      "category": "dado",
+      "image": ""
+    },
+    {
+      "id": "d6f60c8b970",
+      "name": "dado d20",
+      "price": "15",
+      "description": "dado para rpg de mesa d20",
+      "category": "dado",
+      "image": ""
+    }
+  ]
+}
